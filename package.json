@@ -1,0 +1,32 @@
+
+{
+  "name": "eslint-config-warner",
+  "version": "1.0.0",
+  "description": "Shareable ESLint config for my personal projets.",
+  "license": "",
+  "repository": "RyanWarner/eslint-config-warner",
+  "author": "Ryan Warner",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ryan warner",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "jscs",
+    "eslint",
+    "eslintconfig",
+    "code style",
+    "strict",
+    "hint"
+  ],
+  "devDependencies": {
+    "eslint": "^2.13.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=2.13.0"
+  }
+}
